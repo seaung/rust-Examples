@@ -1,0 +1,11 @@
+app:
+  host: 127.0.0.1
+  port: 9527
+  mode: debug
+
+db:
+  host: 127.0.0.1
+  user: admin
+  pass: admin123
+  port: 5432
+  dbname: exampledb1
